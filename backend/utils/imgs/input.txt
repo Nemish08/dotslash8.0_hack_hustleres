@@ -1,0 +1,8 @@
+file '../../images/mOXWUrIShsghrgx2xIJ5I6nIFcA3/0.jpg'
+duration 5.7
+file '../../images/mOXWUrIShsghrgx2xIJ5I6nIFcA3/1.jpg'
+duration 2.0
+file '../../images/mOXWUrIShsghrgx2xIJ5I6nIFcA3/2.jpg'
+duration 2.0
+file '../../images/mOXWUrIShsghrgx2xIJ5I6nIFcA3/3.jpg'
+duration 2.0
